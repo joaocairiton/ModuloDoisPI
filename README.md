@@ -5,4 +5,4 @@ para o gerencimento de clientes, produtos e vendas.
 
 ### Integrantes do Grupo:
 ---
-- Arion Porfirio, Wilker Vinicios, João Cairiton, Arion Porfirio
+- Arion Porfirio, Wilker Vinicios, João Cairiton
